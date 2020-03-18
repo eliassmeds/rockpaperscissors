@@ -12,9 +12,11 @@ Ett rest api som hanterar logiken för spelet sten sax påse
 
 ### Köra
 
-Öppna upp zip-filen.
-Öppna terminalen
-Gå till mappen som du packeterat upp
+Klona/ladda ner projektet,
+öppna terminalen och
+navigera till projektmappen,
+Kör med maven, genom: mvn spring-boot:run.
+Exempel: 
 
 ```
 cd rockpaperscissors
